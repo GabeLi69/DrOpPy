@@ -17,6 +17,16 @@ button{
     background-color: transparent;
     margin-top: 20px;
 }
+p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+hr{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+}
 #files{
     border-width: 2px;
     border-style: solid;

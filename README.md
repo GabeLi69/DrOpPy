@@ -9,5 +9,5 @@ Users can also track/see what they have stored inside the server's storage, and 
 4. Type in and execute the following command: `npm install` 
 5. Type in and execute the following command: `node app.js` 
 6. Open your browser
-7. Type in the following url: localhost:8000
+7. Type in the following url: **localhost:8000**
 8. Press `Enter`

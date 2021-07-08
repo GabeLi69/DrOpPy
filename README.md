@@ -2,7 +2,7 @@
 This project includes setting up a local server and allowing users to store(upload) files in it and retrieve(download) files from it.
 Users can also track/see what they have stored inside the server's storage, and easily remove the files from the server.
 
-### Setting up the server and accessing the applicationo
+### Setting up the server and accessing the application
 1. Open your CLI 
 2. Clone the repo
 3. `cd` into the cloned repo's directory

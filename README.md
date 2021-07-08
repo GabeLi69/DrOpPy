@@ -14,6 +14,6 @@ Users can also track/see what they have stored inside the server's storage, and 
 
 ## How to use/ What are the functions of DrOpPy
 - click "Choose File" to upload, then click "Upload" to upload the selected file to the server
-- Users can see the files they uploaded under "Files Uploaded:"
-- click onto "file_name.ext" (name of the file you uploaded) under "Files Uploaded:" to download the file.
+- Users can see the files they uploaded under "Files Uploaded"
+- click onto "file_name.ext" (name of the file you uploaded) under "Files Uploaded" to download the file.
 - click "delete" to remove the file from the server
